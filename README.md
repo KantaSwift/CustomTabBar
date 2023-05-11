@@ -10,6 +10,7 @@
 - [Installation](#installation)
 - [Basic Usage](#basic-usage)
 - [Tab Style](#tab-style)
+- [UpComing](#upcoming)
 - [Contribution](#contribution)
 
 
@@ -89,6 +90,10 @@ You can specify tabStyle as follows. The default is normal.
 
 ※ You may not like the animation that is attached to the screen when you press Tab to switch screens. We will respond as soon as we find the cause of the problem.
 
+## UpComing
+- To increase the number of TabStyle
+- Change to a better design because the current design has an animation when switching screens when tab is pressed.
+- To be able to change the color of the TabBar.
 
 ## Contribution
 I would be happy if you contribute :)
