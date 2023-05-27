@@ -11,7 +11,9 @@ import Combine
 public final class TabViewModel: ObservableObject {
     @AnimatePublished var isHidden = false
     
-   public func downTabBar(_ isHidden: Bool) {
+    public init() {}
+    
+    public func downTabBar(_ isHidden: Bool) {
         self.isHidden = isHidden
     }
 }
