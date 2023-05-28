@@ -9,7 +9,7 @@ import SwiftUI
 import Combine
 
 public final class TabViewModel: ObservableObject {
-    @AnimatePublished var isHidden = false
+    @AnimatePublished public var isHidden = false
     
     public init() {}
     
